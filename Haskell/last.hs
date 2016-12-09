@@ -1,0 +1,1 @@
+last x = take 1 (reverse [1,2,3,4,5])
